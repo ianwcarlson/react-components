@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#6bc6e1",
+  "disabledColor": "grey",
+  "globalTextColor": "white",
+  "globalBackgroundColor": "#272b30",
+
+  "panelDropShadowColor": "rgba(0, 0, 0, 0.05)",
+  "panelBorderColor": "rgba(0, 0, 0, 0.6)",
+  "panelBackgroundColor": "#2e3338",
+  "panelHeaderTextColor": "#c8c8c8",
+  "panelHeaderBackgroundColor": "#3e444c",
+  "panelHeaderBorderColor": "rgba(0, 0, 0, 0.6)"
+}
